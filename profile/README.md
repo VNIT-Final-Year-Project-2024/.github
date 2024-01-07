@@ -3,4 +3,4 @@
 This application aims to become the unified virtual footprint of our college campus
 
 ## 🔗 Links
-[![confluence](https://img.shields.io/badge/confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](https://mayurshegokar.atlassian.net/wiki/spaces/VF2)
+[![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/Tk4z2Zhb/fyp-kanban-board)
